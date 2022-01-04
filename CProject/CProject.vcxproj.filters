@@ -57,5 +57,23 @@
     <ClCompile Include="Ex_AddressBook_list2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prac.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_Addrbook_fixed.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="prac4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex_Matrix.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
